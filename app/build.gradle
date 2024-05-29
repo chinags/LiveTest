@@ -19,6 +19,27 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    signingConfigs {
+//        config {
+//            keyAlias 'key0'
+//            keyPassword '123321'
+//            storeFile file('autosos.jks')
+//            storePassword '123321'
+//        }
+
+        config {
+            keyAlias 'ydsos_v2'
+            keyPassword '123456'
+            storeFile file('ydsos_v2.jks')
+            storePassword '123456'
+        }
+        debug {
+            keyAlias 'ydsos_v2'
+            keyPassword '123456'
+            storeFile file('ydsos_v2.jks')
+            storePassword '123456'
+        }
+    }
 }
 
 dependencies {

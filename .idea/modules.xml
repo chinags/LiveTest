@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LiveTest.iml" filepath="$PROJECT_DIR$/LiveTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LiveTest.iml" filepath="$PROJECT_DIR$/.idea/modules/LiveTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LiveTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LiveTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LiveTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LiveTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LiveTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LiveTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LiveTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LiveTest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/LiveTest.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/LiveTest.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/LiveTest.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/LiveTest.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/LiveTest.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/LiveTest.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/LiveTest.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/LiveTest.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vitamio/LiveTest.vitamio.unitTest.iml" />
     </modules>
   </component>
 </project>
